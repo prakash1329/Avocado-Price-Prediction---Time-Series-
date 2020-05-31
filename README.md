@@ -47,4 +47,5 @@ Was the Avocadopocalypse of 2017 real?
 For more information, please check this out:
 
  [https://research.fb.com/prophet-forecasting-at-scale/](https://research.fb.com/prophet-forecasting-at-scale/)
+ 
  [https://facebook.github.io/prophet/docs/quick_start.html#python-api](https://facebook.github.io/prophet/docs/quick_start.html#python-api)
